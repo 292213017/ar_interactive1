@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_back_normal.png.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\drawable-ldpi\\btn_back_normal.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_main_imageview.xml.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\drawable\\shape_main_imageview.xml"
+    },
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_background.bmp.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\drawable-ldpi\\background.bmp"
+    },
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_scan_light.png.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\drawable-ldpi\\scan_light.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\layout_capture.xml.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\layout_seevideo.xml.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\layout\\seevideo.xml"
+    },
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_main_button.xml.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\drawable\\selector_main_button.xml"
+    },
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_arlogo.jpg.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\drawable-ldpi\\arlogo.jpg"
+    },
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\layout_register.xml.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_main_button.xml.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\drawable\\shape_main_button.xml"
+    },
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\layout_joingroup.xml.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\layout\\joingroup.xml"
+    },
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\layout_beginshow.xml.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\layout\\beginshow.xml"
+    },
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep.ogg.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\layout_menuscene.xml.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\layout\\menuscene.xml"
+    },
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_back_press.png.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\drawable-ldpi\\btn_back_press.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_capture_back.xml.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\drawable\\selector_capture_back.xml"
+    },
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_main_edit.xml.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\drawable\\shape_main_edit.xml"
+    },
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\layout_creategroup.xml.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\layout\\creategroup.xml"
+    },
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\ar_interactive1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_main_title.xml.flat",
+        "source": "E:\\ASworkspace\\ar_interactive1\\app\\src\\main\\res\\drawable\\shape_main_title.xml"
+    }
+]

@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:2:1-86:12
+	package
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.INTERNET
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.CAMERA
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:13:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:14:22-63
+uses-permission#android.permission.FLASHLIGHT
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:15:5-69
+	android:name
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:15:22-66
+uses-feature#android.hardware.camera
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:17:5-60
+	android:name
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:17:19-57
+uses-feature#android.hardware.camera.flash
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:18:5-66
+	android:name
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:18:19-63
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:19:5-70
+	android:name
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:19:19-67
+uses-sdk
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:21:5-23:41
+INJECTED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:21:5-23:41
+INJECTED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:21:5-23:41
+INJECTED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:21:5-23:41
+INJECTED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:21:5-23:41
+	android:targetSdkVersion
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:23:9-38
+		INJECTED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:22:9-35
+		INJECTED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:25:5-84:19
+	android:screenOrientation
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:29:9-45
+	android:label
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:27:9-40
+	android:allowBackup
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:30:9-44
+activity#com.example.ar_interactive.BeginShow
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:31:9-41:20
+	android:screenOrientation
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:33:13-45
+	android:theme
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:32:13-64
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:39:27-74
+activity#com.example.ar_interactive.Login
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:42:9-47:20
+	android:screenOrientation
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:45:13-49
+	android:label
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:44:13-45
+	android:theme
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:46:13-49
+	android:name
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:43:13-60
+activity#com.example.ar_interactive.Register
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:48:9-53:20
+	android:screenOrientation
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:51:13-49
+	android:label
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:50:13-45
+	android:theme
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:52:13-49
+	android:name
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:49:13-63
+activity#com.example.ar_interactive.MenuScene
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:54:9-59:20
+	android:screenOrientation
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:57:13-49
+	android:label
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:56:13-45
+	android:theme
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:58:13-49
+	android:name
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:55:13-64
+activity#com.example.ar_interactive.CreateGroup
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:60:9-65:20
+	android:screenOrientation
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:63:13-49
+	android:label
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:62:13-45
+	android:theme
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:64:13-49
+	android:name
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:61:13-66
+activity#com.example.ar_interactive.JoinGroup
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:66:9-71:20
+	android:screenOrientation
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:69:13-49
+	android:label
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:68:13-45
+	android:theme
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:70:13-49
+	android:name
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:67:13-64
+activity#com.example.ar_interactive.SeeVideo
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:72:9-77:20
+	android:screenOrientation
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:75:13-49
+	android:label
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:74:13-45
+	android:theme
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:76:13-49
+	android:name
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:73:13-63
+activity#com.karics.library.zxing.android.CaptureActivity
+ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:78:9-83:20
+	android:screenOrientation
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:81:13-49
+	android:label
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:80:13-45
+	android:theme
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:82:13-60
+	android:name
+		ADDED from E:\ASworkspace\ar_interactive1\app\src\main\AndroidManifest.xml:79:13-76

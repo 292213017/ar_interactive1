@@ -1,0 +1,73 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".JoinGroup" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70dp"
+        android:text="Join Group"
+        android:textColor="@color/white"
+        android:textSize="23sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="155dp"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Code:  "
+            android:textColor="@color/white"
+            android:textSize="23sp" />
+
+        <EditText
+            android:id="@+id/joingroupcode"
+            android:layout_width="170sp"
+            android:layout_height="wrap_content"
+            android:background="#40ffffff"
+            android:ems="12"
+            android:textColor="@color/white"
+            android:textSize="21sp" />
+    </LinearLayout>
+    <Spinner
+        android:id="@+id/joingroupspinnerways"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="200dp"
+        android:textSize="20sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="255dp"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/button_joingroup_go"
+            android:layout_width="120sp"
+            android:layout_height="wrap_content"
+            android:text="Join"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/button_joingroup_back"
+            android:layout_width="120sp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="Back"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+</RelativeLayout>

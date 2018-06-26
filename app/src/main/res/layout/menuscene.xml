@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".MenuScene" >
+
+    <TextView
+        android:id="@+id/helloname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:text="Hello,"
+        android:textColor="@color/white"
+        android:textSize="23sp" />
+
+    <Button
+        android:id="@+id/button_creategroup"
+        android:layout_width="250sp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:text="Create Group"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/button_joingroup"
+        android:layout_width="250sp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button_creategroup"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="Join Group"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/button_seevideo"
+        android:layout_width="250sp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button_joingroup"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="See Video"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/button_logout"
+        android:layout_width="250sp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button_seevideo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="Sign Out"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+</RelativeLayout>
